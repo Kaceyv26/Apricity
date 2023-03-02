@@ -1,0 +1,43 @@
+.username {
+font-family: "poppins", sans-serif;
+font-weight: 400;
+font-style: normal;
+color: gray;
+opacity: .8;
+}
+.password {
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    opacity: .8;
+}
+.text {
+    float: right;
+
+}
+.hoverme {
+    background-color: #8D2E5A;
+    padding: 10px 20px;
+    border: none;
+    transition: 0.3s;
+    border-radius: 10px;
+    font-family: "poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+.hoverme:hover {
+    background-color:#C83574;
+    font-family: "poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+.button {
+    float: right;
+    margin-top: -500px;
+}
