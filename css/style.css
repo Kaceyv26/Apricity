@@ -7,7 +7,7 @@
     position: relative;
     float: right;
     right: 282px;
-    bottom: 530px;
+    bottom: 540px;
 }
 .forgot {
     font-family: "poppins", sans-serif;
@@ -17,7 +17,7 @@
     opacity: .4;
     position: relative;
     float: right;
-    bottom: 410px;
+    bottom: 420px;
     left: 12px;
     font-size: 12px;
     text-decoration-line: underline;
@@ -47,7 +47,7 @@
     position: relative;
     float: right;
     left: 15px;
-    margin-top: -350px;
+    margin-top: -360px;
 }
 hr {
     width: 355%;
@@ -69,12 +69,24 @@ hr {
     float: right;
     left: 18px;
     font-size: 12px;
-    bottom: 278px;
+    bottom: 288px;
 }
 .socials {
     position: relative;
     float: right;
     left: 393px;
-    bottom: 230px;
+    bottom: 240px;
     width: 20%;
+}
+.email {
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    opacity: .6;
+    position: relative;
+    float: right;
+    left: 590px;
+    font-size: 12px;
+    bottom: 170px;
 }
