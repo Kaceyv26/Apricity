@@ -7,7 +7,20 @@
     position: relative;
     float: right;
     right: 282px;
-    bottom: 480px;
+    bottom: 530px;
+}
+.forgot {
+    font-family: "poppins", sans-serif;
+    font-weight: 300;
+    font-style: line;
+    color: gray;
+    opacity: .4;
+    position: relative;
+    float: right;
+    bottom: 410px;
+    left: 12px;
+    font-size: 12px;
+    text-decoration-line: underline;
 }
 .hoverme {
     background-color: #8D2E5A;
@@ -34,7 +47,7 @@
     position: relative;
     float: right;
     left: 15px;
-    margin-top: -310px;
+    margin-top: -350px;
 }
 hr {
     width: 355%;
@@ -45,4 +58,23 @@ hr {
     margin-top: 8px;
     margin-bottom: 90px;
     background-color: black;
+}
+.continue {
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    opacity: .6;
+    position: relative;
+    float: right;
+    left: 18px;
+    font-size: 12px;
+    bottom: 278px;
+}
+.socials {
+    position: relative;
+    float: right;
+    left: 393px;
+    bottom: 230px;
+    width: 20%;
 }
